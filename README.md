@@ -1,2 +1,2 @@
 # address-genie
-addressgeine from scratch using strapi
+addressgeine from scratch using storblok.com
